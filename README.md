@@ -62,7 +62,21 @@ The system prints a structured recommendation for 2 NSE stocks including:
 
 ## Sample Output
 
-![Agent Output]([Screenshot_2026-04-16_014333.png](https://github.com/owais825/Brightdata/blob/main/Screenshot%202026-04-16%20014333.png))
+```
+Name: supervisor
+
+The tasks have been completed.
+
+1. The stock_finder_agent picked 2 promising NSE stocks: Hindustan Unilever Limited (HINDUNILVR) and ICICI Bank Limited (ICICIBANK).
+2. The market_data_agent provided current market data for these stocks.
+3. The news_analyst_agent searched and summarized recent news for these stocks.
+4. The price_recommender_agent gave a buy/sell decision with target price for these stocks.
+
+The final answer is:
+
+Buy Hindustan Unilever Limited (HINDUNILVR) at ₹2,400 - ₹2,420 with a target of ₹2,550 - ₹2,600 and a stop loss of ₹2,300.
+Buy ICICI Bank Limited (ICICIBANK) at ₹920 - ₹940 with a target of ₹980 - ₹1,000 and a stop loss of ₹880.
+```
 
 ## Requirements
 
