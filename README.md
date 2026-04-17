@@ -62,7 +62,7 @@ The system prints a structured recommendation for 2 NSE stocks including:
 
 ## Sample Output
 
-![Agent Output](Screenshot_2026-04-16_014333.png)
+![Agent Output]([Screenshot_2026-04-16_014333.png](https://github.com/owais825/Brightdata/blob/main/Screenshot%202026-04-16%20014333.png))
 
 ## Requirements
 
